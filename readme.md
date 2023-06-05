@@ -1,5 +1,5 @@
 # ASSIGNMENT FOR Onlinesales.ai 
- - the assignments are given in he format of files checkout the links below->
+ - the assignments are given in the format of files checkout the links below->
 
 # TASK 1 -> SQL
   - The sql queries are written in the [MySQLqueries.txt](https://github.com/Somesh5723/onlinesalesCode/blob/master/MYSQLqueries.txt) file.
